@@ -1,0 +1,34 @@
+- profile:
+  initials: JC
+  name: Jesse Cooper
+  profession: Software Engineer
+  image: images/profile.jpg
+  location: Frisco, TX, USA
+  relocation: false
+  company: Improving Inc.
+  for_hire: false
+  focus: React & UI
+  focus_url: https://reactjs.org/
+  about: |
+    I am a passionate Software Engineer that enjoys digging into different technologies and tools with experience in all aspects of the SDLC, Test Driven Development, Continuous Integration and Deployment. I also have extensive experience working with Spring Boot and building REST Apis coupled with experience building frontend applications in React.
+
+    I thrive when the team im working with is collaborative and open to new ideas and focused on solving problems. I find joy in creating solid, quality products!
+  skills:
+    - Java
+    - SQL
+    - Javascript
+    - Microservices
+    - React
+    - Test Driven Development
+  tools:
+    - Springboot
+    - Intellij
+    - SQL
+    - XP/Scrum
+    - Junit/Mockito
+    - Jasmine
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

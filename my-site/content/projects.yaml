@@ -1,0 +1,17 @@
+- name: Leetcode Collection
+  url: https://github.com/J-L-C/leetcode-collection
+  description: Building problem solving skills while brushing up on Typescript and TDD principles.
+  status: in progress
+  tags:
+    - JavaScript
+    - Node.js
+  icon: github
+
+- name: Lego 3D Model Tutorial
+  url: https://github.com/J-L-C/lego-3d-model
+  description: Built a 3D Model of a lego person in Blender and exported to Unity with basic movements which was my first attempt at 3D modeling. Incredibly satifying experience!
+  tags:
+    - Blender
+    - HTML
+  icon: github
+  image: images/jumpingLego.png
