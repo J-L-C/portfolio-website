@@ -13,9 +13,7 @@
     "site"
   ],
   "overrides": {
-    "@wkocjan/gatsby-theme-intro@2.0.1": {
-      "gatsby": "^4.14.1",
-      "gatsby-plugin-sharp": "^4.15.0"
-    }
+    "gatsby@3.0.0": "^4.18.0",
+    "gatsby-plugin-sharp@3.0.1": "^4.15.0"
   }
 }
