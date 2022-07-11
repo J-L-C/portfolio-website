@@ -11,5 +11,11 @@
   "workspaces": [
     "gatsby-theme-intro",
     "site"
-  ]
+  ],
+  "overrides": {
+    "@wkocjan/gatsby-theme-intro@2.0.1": {
+      "gatsby": "^4.14.1",
+      "gatsby-plugin-sharp": "^4.15.0"
+    }
+  }
 }
