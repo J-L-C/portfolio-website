@@ -3,6 +3,7 @@ module.exports = {
     description: "Personal page of Jesse Cooper",
     locale: "en",
     title: "Jesse Cooper",
+    formspreeEndpoint: "https://formspree.io/f/myyoqlbd",
   },
   plugins: [
     {
